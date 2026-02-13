@@ -2,6 +2,10 @@
 
 AD-MindMap est une application interactive conçue pour les tests d'intrusion sur des environnements Active Directory. Elle centralise les vecteurs d'attaque, les commandes associées et les explications techniques dans une interface modulaire et intuitive.
 
+<img width="1293" height="833" alt="image" src="https://github.com/user-attachments/assets/dfc8addd-f9e9-4fd0-acd0-38756d06b57d" />
+
+<img width="1289" height="862" alt="image" src="https://github.com/user-attachments/assets/e82e62b9-697d-429b-a832-26fb56b5bb9e" />
+
 ## 🚀 Fonctionnalités
 
 **Base de Connaissances :** Commandes prêtes à l'emploi (NetExec, Impacket, Mimikatz, etc.).
